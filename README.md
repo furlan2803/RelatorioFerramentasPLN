@@ -61,7 +61,7 @@ O estudo realizado por Carlos Lopezosa, Luís Codina e José Juan Boté-Vericad,
 
 # 💻 Implementação
 
-Acesse a implementação <a href="">aqui</a>
+Acesse a implementação <a href="https://github.com/furlan2803/RelatorioFerramentasPLN/blob/main/ImplementacaoHTTP_OpenAI.ipynb">aqui</a>
 
 
 # 📝 Referências
